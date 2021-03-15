@@ -16,6 +16,7 @@ var uploadRouter = require('./routes/upload_file');
 var productsRouter = require('./routes/products');
 var productRouter = require('./routes/product');
 var donHangRouter = require('./routes/don_hang');
+var phanquyenRouter = require('./routes/phan_quyen');
 
 var app = express();
 
